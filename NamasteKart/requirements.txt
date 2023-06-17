@@ -1,0 +1,3 @@
+pandas
+secure-smtplib
+python-decouple
